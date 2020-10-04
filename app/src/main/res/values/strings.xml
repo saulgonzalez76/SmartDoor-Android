@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SmartDoor</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_config">Configuracion</string>
+    <string name="vincular_nuevo">Escanear Nuevo</string>
+    <string name="title_activity_login">Google Login</string>
+    <string name="action_sign_in">Google Login</string>
+    <string name="action_sign_in_short">Google Login</string>
+    <string name="login_failed">"Login incorrecto"</string>
+    <string name="strServer">https://example.com/</string>
+    <integer name="version">1</integer>
+    <string name="server_client_id">goolge_api_key</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">facebook_key</string>
+    <string name="default_codigo_pais">52</string>
+</resources>
